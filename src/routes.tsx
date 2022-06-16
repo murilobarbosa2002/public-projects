@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { HomePage } from './screens/Home'
 import { DocsPage } from './screens/Docs'
 export function AppRoutes(){
@@ -6,7 +6,7 @@ export function AppRoutes(){
         <Router>
             <Routes>
                 <Route path='/' element={<HomePage />} />
-                <Route path='/docs' element={<DocsPage />} />
+                <Route path='docs' element={<DocsPage />} />
             </Routes>
         </Router>
     )
