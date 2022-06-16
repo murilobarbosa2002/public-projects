@@ -1,2 +1,2 @@
 # public-projects
-Repositório destinado a meus projetos públicos.
+Repositório destinado para meus projetos/portfolio públicos.
