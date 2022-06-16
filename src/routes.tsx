@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import { HomePage } from './screens/Home'
 import { DocsPage } from './screens/Docs'
 export function AppRoutes(){
