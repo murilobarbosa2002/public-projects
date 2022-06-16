@@ -2,7 +2,7 @@
   "name": "github-pages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "github-pages",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
